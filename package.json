@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-pair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BANCUNGUYE66/bootstrap-pair.git"
+  },
+  "author": "BANCUNGUYE66",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BANCUNGUYE66/bootstrap-pair/issues"
+  },
+  "homepage": "https://github.com/BANCUNGUYE66/bootstrap-pair#readme",
+  "devDependencies": {
+    "hint": "^2.0.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3"
+  }
+}
